@@ -1,1 +1,16 @@
+---
+title: Paleoenvironmental changes of the early Eocene
+format: html
+---
+## Introduction
+
+*This document represents an evolving synthesis of early Eocene paleoenvironmental data.*
+
+## Geological and paleogeographic context
+
+## Proxy-based observations
+
+## Discussion
+
+## Open questions and future directions
 
